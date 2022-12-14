@@ -1,0 +1,20 @@
+body{background-image: url(https://www.kawasaki.com/Content/Images/map_graphic_KMC.jpg) ;
+     background-position: inherit;}
+.h1{color: limegreen ;
+    text-decoration-line: underline ; 
+    background-color: black;
+    margin: 20px;
+    text-align: center;
+    border : limegreen 5px ;
+
+    
+    border-radius: 1rem;}
+.invisible{height: 5rem;}
+.accordion-button{background-color: black;
+                  color: limegreen; }
+h4{color: limegreen;}
+h1{color: limegreen; margin-left: 2rem;}
+.carousel-inner{
+    background-image: inherit;
+
+}
